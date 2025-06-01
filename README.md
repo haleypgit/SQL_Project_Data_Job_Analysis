@@ -449,4 +449,3 @@ Platforms like Looker, Jira, Confluence, Qlik, SSIS, and SAP may not dominate te
 
 ## Final Conclusion
 This project provided valuable insights into the current data analyst job market, highlighting the growing demand for cloud, analytics, and programming skills. High-paying roles increasingly favor candidates skilled in tools like Python, SQL, Pandas, Databricks, and cloud platforms such as AWS and Azure. By identifying the intersection of high-demand and top-paying technologies, I gained a deeper understanding of the evolving landscape and the skillsets that open doors to competitive, future-ready opportunities in data careers and I really hope that these insights are helpful for you in some ways.
-
